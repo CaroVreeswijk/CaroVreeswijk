@@ -13,7 +13,7 @@ I don't really like taco's, but suddenly people started calling me a taco :)
   * Java ✨
   * Python 🐍
   * C++ 🍆
-  * Currently Studying C#
+  * Currently learning C#
 * I also know a thing or two about:
   * Linux
   * Probably other stuff that I forgot about :)
